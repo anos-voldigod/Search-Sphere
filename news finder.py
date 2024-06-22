@@ -1,5 +1,3 @@
-# "0d71b932190e42faa13fb8cf710bcbfd"
-
 import requests
 
 def search_articles_with_api(api_key, keyword):
